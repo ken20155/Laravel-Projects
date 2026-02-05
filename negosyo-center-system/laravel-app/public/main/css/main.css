@@ -1,0 +1,33 @@
+#preloader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
+#preloader-text {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+    color: #000;
+}
+
+/* Maintain original color for disabled checkboxes */
+.checkbox-disabled {
+    pointer-events: none; /* Prevent interaction */
+    opacity: 1; /* Keep the original opacity/color */
+}
+
+.checkbox-disabled:checked {
+    background-color: #007bff; /* Set to the desired active background color */
+    border-color: #007bff; /* Set to the desired active border color */
+}
