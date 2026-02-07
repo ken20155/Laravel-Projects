@@ -119,8 +119,7 @@ A business support management system inspired by government and enterprise servi
 
 If you'd like to collaborate, review the projects, or request enhancements:
 
-- 📧 Email: *available upon request*
-- 💼 GitHub: *this repository*
+- 📧 Email: kenneth.tanuron@gmail.com
 
 ---
 
