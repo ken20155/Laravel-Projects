@@ -99,6 +99,28 @@ A business support management system inspired by government and enterprise servi
 
 ---
 
+### 5️⃣ POS | Inventory Management System (FIFO – FEFO)
+
+A Point of Sale (POS) and Inventory Management System designed to ensure accurate stock handling using **FIFO (First In, First Out)** and **FEFO (First Expired, First Out)** principles.
+
+**Key Features:**
+- POS sales and transaction processing
+- FIFO & FEFO inventory logic
+- Expiration date tracking
+- Stock movement history
+- Reports for inventory and sales
+- Business-ready workflow
+
+---
+
+## 🛠 Technologies Used
+
+- **Backend:** Laravel, PHP, ASP.NET  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Database:** MySQL, SQL Server  
+- **Tools:** Git, GitHub, VS Code  
+
+---
 ## 📅 Development Timeline
 
 - **Year:** **2024**
